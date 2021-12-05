@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+C:\Users\kataj\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2993656568.index
+\Asiakkaat\src

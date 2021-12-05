@@ -1,0 +1,66 @@
+
+jouluk. 05, 2021 16:35:00.44 NEW SESSION
+jouluk. 05, 2021 16:35:00.44 
+jouluk. 05, 2021 16:35:00.44 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+jouluk. 05, 2021 16:35:00.44 
+jouluk. 05, 2021 16:35:17.83 [Parent 14096, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+jouluk. 05, 2021 16:35:17.84 
+jouluk. 05, 2021 16:35:17.84 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+jouluk. 05, 2021 16:35:17.84 
+jouluk. 05, 2021 16:37:48.52 [Parent 10688, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+jouluk. 05, 2021 16:37:48.53 
+jouluk. 05, 2021 16:37:48.53 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+jouluk. 05, 2021 16:37:48.53 
+jouluk. 05, 2021 16:38:11.55 
+jouluk. 05, 2021 16:38:11.55 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+jouluk. 05, 2021 16:38:11.55 
+jouluk. 05, 2021 16:38:45.46 
+jouluk. 05, 2021 16:38:45.46 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+jouluk. 05, 2021 16:38:45.46 
+jouluk. 05, 2021 16:42:11.79 
+jouluk. 05, 2021 16:42:11.79 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+jouluk. 05, 2021 16:42:11.79 
+jouluk. 05, 2021 17:29:05.49 [Parent 5288, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+jouluk. 05, 2021 17:29:05.51 
+jouluk. 05, 2021 17:29:05.51 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+jouluk. 05, 2021 17:29:05.51 
+jouluk. 05, 2021 17:45:03.44 
+jouluk. 05, 2021 17:45:03.44 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+jouluk. 05, 2021 17:45:03.44 
+jouluk. 05, 2021 17:45:14.55 
+jouluk. 05, 2021 17:45:14.55 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+jouluk. 05, 2021 17:45:14.55 
+jouluk. 05, 2021 17:45:55.22 
+jouluk. 05, 2021 17:45:55.22 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+jouluk. 05, 2021 17:45:55.22 
+jouluk. 05, 2021 17:45:59.82 
+jouluk. 05, 2021 17:45:59.82 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+jouluk. 05, 2021 17:45:59.82 
+jouluk. 05, 2021 17:46:13.51 
+jouluk. 05, 2021 17:46:13.51 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+jouluk. 05, 2021 17:46:13.51 
+jouluk. 05, 2021 17:51:34.92 
+jouluk. 05, 2021 17:51:34.93 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+jouluk. 05, 2021 17:51:34.93 
+jouluk. 05, 2021 17:51:38.04 
+jouluk. 05, 2021 17:51:38.04 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+jouluk. 05, 2021 17:51:38.04 
+jouluk. 05, 2021 18:03:52.07 [Child 9396, MediaDecoderStateMachine #1] WARNING: 1ce75c84660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+jouluk. 05, 2021 18:03:53.81 [Child 9396, MediaDecoderStateMachine #1] WARNING: 1ce72aaa4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+jouluk. 05, 2021 18:03:57.55 [Child 9396, MediaDecoderStateMachine #1] WARNING: 1ce0105bc80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+jouluk. 05, 2021 18:04:07.74 [Child 9396, MediaDecoderStateMachine #1] WARNING: 1ce0105b040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+jouluk. 05, 2021 18:04:08.58 [Child 9396, MediaDecoderStateMachine #1] WARNING: 1ce76ce19e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+jouluk. 05, 2021 18:04:23.76 [Child 9396, MediaDecoderStateMachine #1] WARNING: 1ce72c5c820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+jouluk. 05, 2021 18:04:53.62 [Child 9396, MediaDecoderStateMachine #1] WARNING: 1ce741c3120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+jouluk. 05, 2021 18:04:53.71 [Child 9396, MediaDecoderStateMachine #1] WARNING: 1ce741c3120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+jouluk. 05, 2021 18:04:54.74 [Child 9396, MediaDecoderStateMachine #1] WARNING: 1ce00052f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+jouluk. 05, 2021 18:05:09.95 [Child 9396, MediaDecoderStateMachine #1] WARNING: 1ce0105b040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+jouluk. 05, 2021 18:05:44.47 [Child 9396, MediaDecoderStateMachine #1] WARNING: 1ce008da820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+jouluk. 05, 2021 18:05:44.55 [Child 9396, MediaDecoderStateMachine #1] WARNING: 1ce741c3660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+jouluk. 05, 2021 18:06:21.12 [Child 9396, MediaDecoderStateMachine #1] WARNING: 1ce000523c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+jouluk. 05, 2021 18:06:21.20 [Child 9396, MediaDecoderStateMachine #1] WARNING: 1ce0105b820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+jouluk. 05, 2021 18:06:57.63 [Child 9396, MediaDecoderStateMachine #1] WARNING: 1ce00052580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+jouluk. 05, 2021 18:06:57.72 [Child 9396, MediaDecoderStateMachine #1] WARNING: 1ce00052900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+jouluk. 05, 2021 18:07:34.18 [Child 9396, MediaDecoderStateMachine #1] WARNING: 1ce000524a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+jouluk. 05, 2021 18:07:34.28 [Child 9396, MediaDecoderStateMachine #1] WARNING: 1ce001b3900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+jouluk. 05, 2021 18:08:11.81 [Child 9396, MediaDecoderStateMachine #1] WARNING: 1ce00052d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
