@@ -252,3 +252,8 @@
 127.0.0.1 - - [11/Dec/2021:14:02:45 +0200] "GET /favicon.ico HTTP/1.1" 404 762
 127.0.0.1 - - [11/Dec/2021:14:03:01 +0200] "GET /Asiakkaat/listaaasiakkaat.jsp HTTP/1.1" 200 2949
 127.0.0.1 - - [11/Dec/2021:14:04:28 +0200] "GET /Asiakkaat/listaaasiakkaat.jsp HTTP/1.1" 200 2944
+127.0.0.1 - - [11/Dec/2021:14:04:42 +0200] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [11/Dec/2021:14:04:42 +0200] "GET /Asiakkaat/listaaasiakkaat.jsp HTTP/1.1" 200 2944
+127.0.0.1 - - [11/Dec/2021:14:06:50 +0200] "GET /Asiakkaat/listaaasiakkaat.jsp HTTP/1.1" 200 2945
+127.0.0.1 - - [11/Dec/2021:14:06:53 +0200] "GET /Asiakkaat/lisaaasiakas.jsp HTTP/1.1" 200 3104
+127.0.0.1 - - [11/Dec/2021:14:06:54 +0200] "GET /Asiakkaat/listaasiakkaat.jsp HTTP/1.1" 404 748
