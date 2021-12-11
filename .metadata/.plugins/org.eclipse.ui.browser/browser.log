@@ -64,3 +64,60 @@ jouluk. 05, 2021 18:06:57.72 [Child 9396, MediaDecoderStateMachine #1] WARNING: 
 jouluk. 05, 2021 18:07:34.18 [Child 9396, MediaDecoderStateMachine #1] WARNING: 1ce000524a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
 jouluk. 05, 2021 18:07:34.28 [Child 9396, MediaDecoderStateMachine #1] WARNING: 1ce001b3900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
 jouluk. 05, 2021 18:08:11.81 [Child 9396, MediaDecoderStateMachine #1] WARNING: 1ce00052d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+
+jouluk. 11, 2021 11:02:40.86 NEW SESSION
+jouluk. 11, 2021 11:02:40.86 
+jouluk. 11, 2021 11:02:40.86 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+jouluk. 11, 2021 11:02:40.86 
+jouluk. 11, 2021 11:31:26.55 
+jouluk. 11, 2021 11:31:26.55 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+jouluk. 11, 2021 11:31:26.55 
+jouluk. 11, 2021 11:36:38.14 
+jouluk. 11, 2021 11:36:38.14 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+jouluk. 11, 2021 11:36:38.14 
+jouluk. 11, 2021 11:37:10.99 
+jouluk. 11, 2021 11:37:10.99 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+jouluk. 11, 2021 11:37:10.99 
+jouluk. 11, 2021 11:42:21.01 
+jouluk. 11, 2021 11:42:21.01 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+jouluk. 11, 2021 11:42:21.01 
+jouluk. 11, 2021 12:50:16.91 [Parent 2708, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+jouluk. 11, 2021 12:50:16.97 
+jouluk. 11, 2021 12:50:16.97 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+jouluk. 11, 2021 12:50:16.97 
+jouluk. 11, 2021 13:33:54.95 
+jouluk. 11, 2021 13:33:54.95 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+jouluk. 11, 2021 13:33:54.95 
+jouluk. 11, 2021 13:36:41.53 [Parent 10676, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:542
+jouluk. 11, 2021 13:36:41.54 
+jouluk. 11, 2021 13:36:41.54 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+jouluk. 11, 2021 13:36:41.54 
+jouluk. 11, 2021 13:39:12.96 
+jouluk. 11, 2021 13:39:12.96 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+jouluk. 11, 2021 13:39:12.96 
+jouluk. 11, 2021 13:49:17.16 
+jouluk. 11, 2021 13:49:17.16 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+jouluk. 11, 2021 13:49:17.16 
+jouluk. 11, 2021 13:50:21.68 
+jouluk. 11, 2021 13:50:21.68 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+jouluk. 11, 2021 13:50:21.68 
+jouluk. 11, 2021 13:52:57.63 
+jouluk. 11, 2021 13:52:57.63 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+jouluk. 11, 2021 13:52:57.63 
+jouluk. 11, 2021 13:53:06.18 
+jouluk. 11, 2021 13:53:06.18 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+jouluk. 11, 2021 13:53:06.18 
+jouluk. 11, 2021 13:53:12.95 
+jouluk. 11, 2021 13:53:12.95 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+jouluk. 11, 2021 13:53:12.95 
+jouluk. 11, 2021 13:54:26.77 
+jouluk. 11, 2021 13:54:26.77 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+jouluk. 11, 2021 13:54:26.77 
+jouluk. 11, 2021 14:02:55.05 IPDL protocol error: Handler returned error code!
+jouluk. 11, 2021 14:02:55.05 
+jouluk. 11, 2021 14:02:55.05 ###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ExpectFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+jouluk. 11, 2021 14:02:55.05 
+jouluk. 11, 2021 14:02:55.05 IPDL protocol error: Handler returned error code!
+jouluk. 11, 2021 14:02:55.05 
+jouluk. 11, 2021 14:02:55.05 ###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ForgetFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+jouluk. 11, 2021 14:02:55.05 

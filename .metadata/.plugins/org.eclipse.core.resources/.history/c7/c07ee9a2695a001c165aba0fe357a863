@@ -1,0 +1,54 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<link rel="stylesheet" type="text/css" href="css/main.css">
+<title>Asiakkaiden listaus</title>
+</head>
+<body>
+<form action="haeautot" method="get">
+	<table id="listaus">
+		<thead>	
+			<tr>
+				<th class="oikealle" colspan="5"><a href="lisaasiakas.jsp">Lisää uusi asiakas</a></th>
+			</tr>	
+			<tr>
+				<th class="oikealle">Hakusana:</th>
+				<th colspan="3"><input type="text" name="hakusana" id="hakusana" value="${param['hakusana']}"></th>
+				<th><input type="submit" value="hae" id="hakunappi"></th>
+			</tr>			
+			<tr>
+				<th>Etunimi</th>
+				<th>Sukunimi</th>
+				<th>Puhelin</th>
+				<th>Sposti</th>
+				<th></th>							
+			</tr>
+		</thead>
+		<tbody>
+			<c:forEach items="${asiakkaat}" var="listItem">
+				<tr>
+			        <td>${listItem.rekno}</td>
+			        <td>${listItem.merkki}</td>
+			        <td>${listItem.malli}</td>
+			        <td>${listItem.vuosi}</td>
+			        <td>
+			        	<a href="muutaauto?rekno=${listItem.rekno}" class="muuta">muuta</a>
+			        	<a onclick="varmista('${listItem.rekno}')" class="poista">poista</a>			        	
+			        </td>
+		        </tr>
+		    </c:forEach>		
+		</tbody>
+	</table>
+</form>
+<script>
+function varmista(rekno){
+	if(confirm("Haluatko varmasti poistaa auton "+ rekno + "?")){
+		document.location="poistaauto?rekno="+rekno;
+	}
+}	
+</script>
+</body>
+</html>
